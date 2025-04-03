@@ -27,34 +27,4 @@
 - [Toronto emotional speech set (TESS)](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
 
 
-## Setup & Installation
-**Prerequisites**
-
-Ensure the following are installed
-- [Git](https://git-scm.com/)
-- [Python](https://www.python.org/downloads/)
-- [FFmpeg](https://ffmpeg.org/)
-- [Jupter Notebook](https://jupyter.org/install) (or install the Jupyter extension on [Visual Studio Code](https://code.visualstudio.com/)).
-  
-To set up this project locally, follow these steps:
-
-1. Clone the repository:
-```shell
-git clone https://github.com/thebugged/emotion-detection.git
-```
-
-2. Change into the project directory: 
-```shell
-cd emotion-detection
-```
-
-3. Install the required dependencies: 
-```shell
-pip install -r requirements.txt
-```
-<br/>
-
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](emotion--detection.streamlit.app)
-
 
