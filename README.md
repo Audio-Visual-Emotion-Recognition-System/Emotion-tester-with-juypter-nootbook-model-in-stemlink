@@ -54,14 +54,6 @@ pip install -r requirements.txt
 ```
 <br/>
 
-## Running the application
-1. Run the command: 
-```shell
-streamlit run main.py
-```
-2. Alternatively, you can run the `face.ipynb` and `audio.ipynb` notebooks to get their respective models then run the command in 1.
-
-The application will be available in your browser at http://localhost:8501.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](emotion--detection.streamlit.app)
 
